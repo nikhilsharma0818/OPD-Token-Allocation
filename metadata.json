@@ -1,0 +1,5 @@
+{
+  "name": "OPD Token Allocation Engine",
+  "description": "A robust hospital OPD token management system with dynamic reallocation, multi-source prioritization, and emergency handling.",
+  "requestFramePermissions": []
+}
